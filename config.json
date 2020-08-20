@@ -1,0 +1,10 @@
+{
+  "wikipedia": "https://en.wikipedia.org/wiki/Warley_(UK_Parliament_constituency)",
+  "wikidata": [{
+    "id": "Q874986",
+    "start": "1997",
+    "end": "9999"
+  }],
+  "combofile": "combo.csv",
+  "new_person_description": "UK election candidate"
+}

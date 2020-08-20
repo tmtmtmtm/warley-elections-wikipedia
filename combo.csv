@@ -1,0 +1,34 @@
+foundid,id,name,party,partyLabel,votes,election,electionLabel,ranking
+,Q389677,John Spellar,Q9630,Labour Party (UK),21901,Q30173038,General election 2019,1
+,,Chandra Kanneganti,Q9626,Conservative Party (UK),10390,Q30173038,General election 2019,2
+,,Michael Cooper,Q61651140,Brexit Party,2469,Q30173038,General election 2019,3
+Q75838875,,Bryan Manley-Green,Q9624,Liberal Democrats (UK),1588,Q30173038,General election 2019,4
+Q75975772,,Kathryn Downs,Q9669,Green Party of England and Wales,891,Q30173038,General election 2019,5
+,Q389677,John Spellar,Q9630,Labour Party (UK),27004,Q25052149,General election 2017,1
+,Q76450714,Anthony Mangnall,Q9626,Conservative Party (UK),10521,Q25052149,General election 2017,2
+,,Darryl Magher,Q10647,UK Independence Party,1349,Q25052149,General election 2017,3
+Q75838875,,Bryan Manley-Green,Q9624,Liberal Democrats (UK),777,Q25052149,General election 2017,4
+,,Mark Redding,Q9669,Green Party of England and Wales,555,Q25052149,General election 2017,5
+,Q389677,John Spellar,Q9630,Labour Party (UK),22012,Q3586935,General election 2015,1
+,,Tom Williams,Q9626,Conservative Party (UK),7310,Q3586935,General election 2015,2
+,,Pete Durnell,Q10647,UK Independence Party,6237,Q3586935,General election 2015,3
+,,Robert Buckman,Q9669,Green Party of England and Wales,1465,Q3586935,General election 2015,4
+,,Catherine Smith,Q9624,Liberal Democrats (UK),805,Q3586935,General election 2015,5
+,Q389677,John Spellar,Q9630,Labour Party (UK),20240,Q215622,General election 2010,1
+,,Jas Parmar,Q9626,Conservative Party (UK),9484,Q215622,General election 2010,2
+,,Edward Keating,Q9624,Liberal Democrats (UK),5929,Q215622,General election 2010,3
+,,Nigel Harvey,Q10647,UK Independence Party,2617,Q215622,General election 2010,4
+,Q389677,John Spellar,Q9630,Labour Party (UK),17462,Q428598,General election 2005,1
+,,Karen Bissell,Q9626,Conservative Party (UK),7315,Q428598,General election 2005,2
+,,Tony Ferguson,Q9624,Liberal Democrats (UK),4277,Q428598,General election 2005,3
+,,Simon Smith,Q161269,British National Party,1761,Q428598,General election 2005,4
+,,Malcolm Connigale,Q3491460,Socialist Labour Party (UK),637,Q428598,General election 2005,5
+,,David Matthews,Q10647,UK Independence Party,635,Q428598,General election 2005,6
+,Q389677,John Spellar,Q9630,Labour Party (UK),19007,Q590740,General election 2001,1
+,Q575183,Mark Pritchard,Q9626,Conservative Party (UK),7157,Q590740,General election 2001,2
+,,Ron Cockings,Q9624,Liberal Democrats (UK),3315,Q590740,General election 2001,3
+,,Harbhajan Dardi,Q3491460,Socialist Labour Party (UK),1936,Q590740,General election 2001,4
+,Q389677,John Spellar,Q9630,Labour Party (UK),24813,Q918503,General election 1997,1
+,Q575266,Christopher Pincher,Q9626,Conservative Party (UK),9362,Q918503,General election 1997,2
+,,Jeremy Pursehouse,Q9624,Liberal Democrats (UK),3777,Q918503,General election 1997,3
+,,Krishna Gamre,Q278315,Referendum Party,941,Q918503,General election 1997,4
